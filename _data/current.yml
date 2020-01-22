@@ -413,6 +413,13 @@
   twitter: testmagazine
   status: Registration is open
 
+- name: Yerevan Testing Days 2020
+  location: Yerevan, Armenia
+  dates: "May 23-24, 2019"
+  url: https://evntestingdays.com
+  twitter: evntestingdays
+  status: CFP is Open
+
 - name: TestBash Netherlands 2020
   location: Utrecht, NL
   dates: "May 28-29, 2020"
